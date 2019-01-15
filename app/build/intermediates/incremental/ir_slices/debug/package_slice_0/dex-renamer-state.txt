@@ -1,0 +1,4 @@
+#Mon Dec 17 16:07:35 BRST 2018
+base.0=C\:\\workspace\\android\\pessoal\\BollyFilmes\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
